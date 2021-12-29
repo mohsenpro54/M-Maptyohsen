@@ -1,0 +1,15 @@
+{
+  "name": "15-mapty",
+  "version": "1.0.0",
+  "description": "",
+  "default": "other.js",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Mohsen Pro",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
